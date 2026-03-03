@@ -20,6 +20,12 @@ Hospital readmissions are a major driver of healthcare costs and patient outcome
 - **Power BI**: dashboards and KPIs
 - **Healthcare Metrics**: LOS, readmission rate
 
+## How to Run
+1. Open the notebook in `03_notebooks/`
+2. Load the dataset from `01_data/`
+3. Run SQL scripts in `02_sql/` (optional)
+4. View dashboard documentation in `04_dashboards/`
+
 ## 📂 Dataset
 `data/hospital_readmissions.csv` (synthetic, realistic structure for portfolio use)
 

@@ -31,6 +31,7 @@ Hospital readmissions are a major driver of healthcare costs and patient outcome
 
 ## 📈 Dashboard
 See `dashboards/POWER_BI_LAYOUT.md` for the recommended layout and measures.
+- Power BI layout notes: [POWER_BI_LAYOUT.md](04_dashboards/POWER_BI_LAYOUT.md)
 
 ## 🧠 Insights (example)
 - Older patients show higher readmission rates

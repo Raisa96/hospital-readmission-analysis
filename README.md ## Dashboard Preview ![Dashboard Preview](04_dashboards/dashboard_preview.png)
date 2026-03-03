@@ -3,6 +3,12 @@
 ## 📌 Overview
 Hospital readmissions are a major driver of healthcare costs and patient outcomes. This project analyzes 30-day hospital readmission patterns to identify high-risk patient groups and operational factors associated with readmissions.
 
+## Project Structure
+- 01_data/ → Dataset used in the analysis
+- 02_sql/ → SQL queries (joins, aggregations, cohort analysis)
+- 03_notebooks/ → Python notebooks (EDA, cleaning, modeling)
+- 04_dashboards/ → Power BI layout + dashboard visuals
+
 ## 🎯 Business Questions
 - Which patient groups have the highest readmission rates?
 - Do length of stay and comorbidities influence readmissions?

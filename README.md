@@ -38,8 +38,8 @@ See `dashboards/POWER_BI_LAYOUT.md` for the recommended layout and measures.
 
 ## 📁 Files
 - `sql/readmission_queries.sql`
-- `notebooks/readmission_analysis.ipynb`
+- `notebooks/readmission_analysis.ipynb.`
 - `dashboards/POWER_BI_LAYOUT.md`
 
 ## 👩‍⚕️ Author
-Healthcare-focused Data Analyst (Statistics B.S.) transitioning from patient-care operations.
+Healthcare-focused Data Analyst (Statistics B.A.) transitioning from patient-care operations.
